@@ -4,9 +4,8 @@ title: Unpacking
 description: A Twine game about ADHD and self-deprecation.
 ---
 
-H1 Header
+Project Description
 ============
 This multimedia Twine game was created to simulate the experience of ADHD, procrastination, and the shame spiral that comes with it.
 
 [Click here to play Unpacking!](https://anyssajgonzalez.github.io/ADHD-Simulator)
-
