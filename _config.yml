@@ -1,11 +1,10 @@
-### your site title here
+### Anyssa J. Gonzalez Portofolio
 
-title: Anyssa
-description: subtitle | affiliations | motto
+title: Anyssa J. Gonzalez
+description: Ph.D. Student | University of Central Florida
 
 baseurl: /AnyssaPortfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
 
 # Pagination
 paginate: 4
@@ -13,16 +12,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-
+linkedin: "https://www.linkedin.com/in/anyssa-gonzalez/"
 
 # Markdown
 highlighter: rouge
