@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click to Redirect to Project
-description: with no page entry here
+title: Click to view project
+description: Project yay!
 redirect: https://unsplash.com
 ---
