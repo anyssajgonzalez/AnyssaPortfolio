@@ -38,10 +38,10 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
+      - Thesis.md
+      - Selfie.md
+      - Destiny2ComplaintBot.md
+      - Unpacking.md
       - project5.md
       - project6.md
 
