@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dungeons & Drafting--Using TRPGS in the First-Year Composition Classroom
+title: Dungeons & Drafting
 description: A ready-to-play D&D game for first-year composition. 
 ---
 
