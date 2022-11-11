@@ -1,5 +1,5 @@
 ---
-layout: clean
+layout: post
 title: Project 6
 description: another project
 ---
