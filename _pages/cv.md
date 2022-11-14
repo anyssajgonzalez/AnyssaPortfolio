@@ -12,8 +12,9 @@ published: true
 Ph.D. in Texts & Technology 2026
 
 ### Nova Southeastern University
-M.A. in Composition, Rhetoric, and Digital Media 2021
-Thesis | *Dungeons & Drafting: Using TRPGs in the First Year Composition Classroom*
+>M.A. in Composition, Rhetoric, and Digital Media 2021
+
+>Thesis | *Dungeons & Drafting: Using TRPGs in the First Year Composition Classroom*
 
 **Florida International University**
 B.A. in English Education 2016
@@ -25,11 +26,7 @@ Adjunct Instructor
 Courses Taught | *SPCH 2020, Argument and Debate; COMM 3600, Persuasion*
 
 Nova Middle School
-
-Speech and Debate Coach -- Grades 6-8 2018 - Current
-
-Created and executed a curriculum for a three-year Speech and Debate
-program.
+Speech and Debate 
 
 Language Arts -- Grades 6 and 7 2017 - 2018
 
