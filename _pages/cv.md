@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /cv/
-title: Curriculum Vitae
+title: CV
 published: true
 ---
 *Curriculum Vitae*
