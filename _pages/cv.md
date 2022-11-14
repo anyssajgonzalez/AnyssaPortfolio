@@ -12,38 +12,24 @@ published: true
 Ph.D. in Texts & Technology 2026
 
 ### Nova Southeastern University
->M.A. in Composition, Rhetoric, and Digital Media 2021
+M.A. in Composition, Rhetoric, and Digital Media 2021
+\Thesis \| *Dungeons & Drafting: Using TRPGs in the First Year Composition Classroom*
 
->Thesis \| *Dungeons & Drafting: Using TRPGs in the First Year Composition Classroom*
-
-**Florida International University**
+### Florida International University
 B.A. in English Education 2016
 
 ## TEACHING EXPERIENCE
 
-Nova Southeastern University
-Adjunct Instructor 
-Courses Taught | *SPCH 2020, Argument and Debate; COMM 3600, Persuasion*
+### Nova Southeastern University - Adjunct Instructor 
 
-Nova Middle School
-Speech and Debate 
+Courses Taught 
+- Argument and Debate
+- Persuasion
+- Public Speaking
 
-Language Arts -- Grades 6 and 7 2017 - 2018
+## RELATED EXPERIENCE
 
-Developed syllabus and course structure for 6^th^ grade Language Arts
-and 7^th^ grade Literature.
-
-City of Pembroke Pines Charter High School
-
-English Teacher -- Grade 9 2016 - 2017
-
-Developed syllabus and course structure for 9^th^ grade English and
-English Honors courses. Served as club sponsor for a women's empowerment
-club.
-
-RELATED EXPERIENCE
-
-Girls Who Code
+### Girls Who Code
 
 Instructional Coach 2021 -- Current
 
