@@ -4,35 +4,25 @@ permalink: /cv/
 title: CV
 published: true
 ---
-*Curriculum Vitae*
+# Curriculum Vitae
 
-EDUCATION
+## EDUCATION
 
-University of Central Florida
-
+### University of Central Florida
 Ph.D. in Texts & Technology 2026
 
-Nova Southeastern University
-
+### Nova Southeastern University
 M.A. in Composition, Rhetoric, and Digital Media 2021
+Thesis | *Dungeons & Drafting: Using TRPGs in the First Year Composition Classroom*
 
-Thesis*\|Dungeons & Drafting: Using TRPGs in the First Year\
-Composition Classroom*
-
-Florida International University
-
+**Florida International University**
 B.A. in English Education 2016
 
-Additional Certification\|*Certificate of Public and Professional
-Writing*
-
-TEACHING EXPERIENCE
+## TEACHING EXPERIENCE
 
 Nova Southeastern University
-
-Adjunct Instructor 2021 - Current
-
-Courses Taught\|*SPCH 2020, Argument and Debate; COMM 3600, Persuasion*
+Adjunct Instructor 
+Courses Taught | *SPCH 2020, Argument and Debate; COMM 3600, Persuasion*
 
 Nova Middle School
 
