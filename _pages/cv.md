@@ -14,7 +14,7 @@ Ph.D. in Texts & Technology 2026
 ### Nova Southeastern University
 >M.A. in Composition, Rhetoric, and Digital Media 2021
 
->Thesis | *Dungeons & Drafting: Using TRPGs in the First Year Composition Classroom*
+>Thesis \| *Dungeons & Drafting: Using TRPGs in the First Year Composition Classroom*
 
 **Florida International University**
 B.A. in English Education 2016
