@@ -29,19 +29,19 @@ B.A. in English Education \| 2016
 
 >## RELATED EXPERIENCE
 
-Nova Southeastern University 
-- Writing and Communication Center Graduate Consultant \| 2017-2020
+Writing and Communication Center Graduate Consultant \| 2017-2020
+- Nova Southeastern University
 
 >## PRESENTATIONS AND WORKSHOPS
 
-"Taylor Swift's Political Awakening in 'You Need To Calm Down'"
+**"Taylor Swift's Political Awakening in 'You Need To Calm Down'"**
 \| 2019
 - Ignite Presentation Showcase -- Nova Southeastern University
 
-Gettin' Grammatical: History & Practical Application in WCC Work \|
+**Gettin' Grammatical: History & Practical Application in WCC Work** \|
 2018, 2019
 - Writing Center Workshop -- Nova Southeastern University
 
-Social Emotional Learning in the Middle School Classroom \| 2018,
+**Social Emotional Learning in the Middle School Classroom** \| 2018,
 2019
 - Broward County Schools Parent University Workshop
