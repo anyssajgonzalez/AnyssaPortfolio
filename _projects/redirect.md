@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click to view project
-description: Project yay!
-redirect: https://unsplash.com
+title: Omeka Critical Making Exhibit
+description: Click to view
+redirect: https://ajgcriticalmaking.omeka.net/
 ---
