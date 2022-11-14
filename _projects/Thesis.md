@@ -6,7 +6,7 @@ description: A ready-to-play D&D game for first-year composition.
 
 Project Description
 ============
-Completed in December of 2021, this was my Master's thesis. With influences from James Paul Gee, Matthew Johnson, Jonathan Alexander, Rebekah Shultz Colby & Richard Colby, Jody Shipka, and others, this game combines the framework of tabletop roleplaying games (TRPGs) and reshapes it into a playground for first-year composition students to learn about writing identities and genre conventions.
+Completed in December of 2021, this was my Master's thesis. With influences from James Paul Gee, Matthew Johnson, Jonathan Alexander, Rebekah Shultz Colby & Richard Colby, Jody Shipka, and others, this game utilizes the framework of tabletop roleplaying games (TRPGs) and reshapes it into a playground for first-year composition students to learn about writing identities and genre conventions.
 
 Abstract
 ------------
